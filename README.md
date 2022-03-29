@@ -36,8 +36,8 @@ Want to know more about me? [Check out my portfolio.](https://saryoni23.github.i
 
 <br>
 
-<a href="https://github.com/saryoni23/pomegradient">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=saryoni23&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/saryoni23/aplikasi-pendaftaran-bimbingan-belajar-berbasis-web-menggunakan-php">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=saryoni23&repo=aplikasi-pendaftaran-bimbingan-belajar-berbasis-web-menggunakan-php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
