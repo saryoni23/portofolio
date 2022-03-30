@@ -1,4 +1,6 @@
-[![Braydon's GitHub Banner](./assets/githubheaderimg.png)](https://github.com/saryoni23)
+[![saryoni23's GitHub Banner](./assets/githubheaderimg.png)](https://github.com/saryoni23)
+<br>
+
 [![Visits Badge](https://badges.pufler.dev/visits/saryoni23/saryoni23)](https://github.com/saryoni23)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/ISaryoni)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/indra-saryoni-simanjuntak/)
