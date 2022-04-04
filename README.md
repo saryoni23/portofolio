@@ -8,7 +8,7 @@
 
 Hey there 👋
 
-Hello Everyone... Introduce my name is Indra Saryoni Simanjuntak. I am a Backend Developer from Medan city. Currently, I am a full-stack Backend developer and focus on PHP, especially on the Codeigniter framework. Currently, I still like coding and consider coding part of my hobby. And on the sidelines of busy coding, I always learn about new things such as learning new frameworks or anything that will work later to develop the applications that I make, And this is a small part of me. If you are interested or want to ask about me then contact me via the form below
+Hello Everyone... Introduce my name is Indra Saryoni Simanjuntak. I am a Backend Developer from Medan city. Currently, I am a Backend developer and focus on PHP, especially on the Codeigniter framework. Currently, I still like coding and consider coding part of my hobby. And on the sidelines of busy coding, I always learn about new things such as learning new frameworks or anything that will work later to develop the applications that I make, And this is a small part of me. If you are interested or want to ask about me then contact me via the form below
 
 Want to know more about me? [Check out my portfolio.](https://saryoni23.github.io/)
 
