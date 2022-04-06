@@ -17,11 +17,12 @@ Want to know more about me? [Check out my portfolio.](https://saryoni23.github.i
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-<!-- - [The Powerful CSS not Selector](https://braydoncoyer.dev/blog/the-powerful-css-not-selector) -->
-<!-- - [How to Enable Preview Mode in Next.js for your CMS](https://braydoncoyer.dev/blog/how-to-enable-preview-mode-in-next.js-for-your-cms) -->
-<!-- - [Tailwind Gradients - How to Make a Glowing Gradient Background](https://braydoncoyer.dev/blog/tailwind-gradients-how-to-make-a-glowing-gradient-background) -->
-<!-- - [6 BEST Fonts for Programming in 2022](https://braydoncoyer.dev/blog/6-best-fonts-for-programming-in-2022) -->
-<!-- - [A New Opportunity at LogicGate](https://braydoncoyer.dev/blog/a-new-opportunity-at-logicgate) -->
+
+<!-- - [The Powerful CSS not Selector](https://saryoni23.dev/blog/the-powerful-css-not-selector)
+- [How to Enable Preview Mode in Next.js for your CMS](https://saryoni23.dev/blog/how-to-enable-preview-mode-in-next.js-for-your-cms)
+- [Tailwind Gradients - How to Make a Glowing Gradient Background](https://saryoni23.dev/blog/tailwind-gradients-how-to-make-a-glowing-gradient-background)
+- [6 BEST Fonts for Programming in 2022](https://saryoni23.dev/blog/6-best-fonts-for-programming-in-2022)
+- [A New Opportunity at LogicGate](https://saryoni23.dev/blog/a-new-opportunity-at-logicgate)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- <br> -->
