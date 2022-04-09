@@ -39,11 +39,11 @@ Want to know more about me? [Check out my portfolio.](https://saryoni23.github.i
 <a href="https://github.com/saryoni23/aplikasi-pendaftaran-bimbingan-belajar-berbasis-web-menggunakan-php">
   <img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=saryoni23&repo=aplikasi-pendaftaran-bimbingan-belajar-berbasis-web-menggunakan-php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
+<br>
 <a href="https://github.com/saryoni23/bacend-aplikasi-safety-panli-php-api-php_sederhana">
   <img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=saryoni23&repo=bacend-aplikasi-safety-panli-php-api-php_sederhana&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
+<br>
 <a href="https://github.com/saryoni23/aplikasi-rental-motor-berbasis-web-menggunakan-framework-ci">
   <img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=saryoni23&repo=aplikasi-rental-motor-berbasis-web-menggunakan-framework-ci&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -57,7 +57,7 @@ Want to know more about me? [Check out my portfolio.](https://saryoni23.github.i
 <a href="https://github.com/saryoni23">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saryoni23&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
+<br>
 <a href="https://github.com/saryoni23">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=saryoni23&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
