@@ -31,10 +31,8 @@ Want to know more about me? [Check out my portfolio.](https://saryoni23.github.i
 <br>
 
 <a href="https://github.com/saryoni23/AdndroidRecognizeText">
-  <img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=saryoni23&repo=AdndroidRecognizeText&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem" width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=saryoni23&repo=AdndroidRecognizeText&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<hr>
-<br>
 
 <a href="https://github.com/saryoni23/aplikasi-pendaftaran-bimbingan-belajar-berbasis-web-menggunakan-php">
   <img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=saryoni23&repo=aplikasi-pendaftaran-bimbingan-belajar-berbasis-web-menggunakan-php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
