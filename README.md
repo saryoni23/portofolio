@@ -35,7 +35,7 @@ Want to know more about me? [Check out my portfolio.](https://saryoni23.github.i
 </a>
 
 <a href="https://github.com/saryoni23/aplikasi-pendaftaran-bimbingan-belajar-berbasis-web-menggunakan-php">
-  <img align="center" style="margin:1rem" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=saryoni23&repo=aplikasi-pendaftaran-bimbingan-belajar-berbasis-web-menggunakan-php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=saryoni23&repo=aplikasi-pendaftaran-bimbingan-belajar-berbasis-web-menggunakan-php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/saryoni23/bacend-aplikasi-safety-panli-php-api-php_sederhana">
@@ -43,7 +43,7 @@ Want to know more about me? [Check out my portfolio.](https://saryoni23.github.i
 </a>
 
 <a href="https://github.com/saryoni23/aplikasi-rental-motor-berbasis-web-menggunakan-framework-ci">
-  <img align="center" style="margin:1rem" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=saryoni23&repo=aplikasi-rental-motor-berbasis-web-menggunakan-framework-ci&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=saryoni23&repo=aplikasi-rental-motor-berbasis-web-menggunakan-framework-ci&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
