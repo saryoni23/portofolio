@@ -67,7 +67,7 @@ Want to know more about me? [Check out my portfolio.](https://saryoni23.github.i
 <br>
 
 ## 💼 Skills
-
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
@@ -76,10 +76,11 @@ Want to know more about me? [Check out my portfolio.](https://saryoni23.github.i
 ![](https://img.shields.io/badge/Code-GreenSock-informational?style=flat&logo=GreenSock&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
+
+<!-- ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)  -->
 <!-- ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197) -->
 <!-- ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197) -->
 <!-- ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197) -->
