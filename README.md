@@ -66,9 +66,11 @@ Want to know more about me? [Check out my portfolio.](https://saryoni23.github.i
 <!-- <a href="https://github.com/saryoni23">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=saryoni23&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a> -->
+
+
 <br>
 <a href="https://profile.codersrank.io/user/saryoni23/" rel="nofollow">
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=saryoni23" data-canonical-src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=saryoni23" style="max-width: 70%;">
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=saryoni23" data-canonical-src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=saryoni23 " style="width: 50%; ">
   </a>
 
 <br>
