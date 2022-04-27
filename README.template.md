@@ -54,7 +54,8 @@ Want to know more about me? [Check out my portfolio.](https://saryoni23.github.i
 
 <br>
 <details>
-<summa ry>languages</summa>
+<summa ry>GitHub Stats</summa>
+<br>
 <a href="https://github.com/saryoni23">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=saryoni23&show_icons=true&hide=stars,issues,contribs&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="GitHub Stats" />
 </a>
@@ -62,6 +63,7 @@ Want to know more about me? [Check out my portfolio.](https://saryoni23.github.i
 
 <details>
 <summa ry>languages</summa>
+<br>
 <a href="https://github.com/saryoni23">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saryoni23&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
