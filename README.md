@@ -1,17 +1,18 @@
 [![saryoni23's GitHub Banner](./assets/githubheaderimg.png)](https://github.com/saryoni23)
-<br>
+===
 
 [![Visits Badge](https://badges.pufler.dev/visits/saryoni23/saryoni23)](https://github.com/saryoni23)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/ISaryoni)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/indra-saryoni-simanjuntak/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=0D76A8)](https://codepen.io/saryoni23)
+===
 
 ## 👋 About Me
 
 Hey there
 
 <details>
-<summary>About Me</summary>
+<summa ry>About Me</summa>
 <br>
 Hello Everyone... Introduce my name is Indra Saryoni Simanjuntak. I am a Backend Developer from Medan city. Currently, I am a full-stack Backend developer and focus on PHP, especially on the Codeigniter framework. Currently, I still like coding and consider coding part of my hobby. And on the sidelines of busy coding, I always learn about new things such as learning new frameworks or anything that will work later to develop the applications that I make, And this is a small part of me. If you are interested or want to ask about me then contact me via the form below
 
@@ -64,9 +65,9 @@ Want to know more about me? [Check out my portfolio.](https://saryoni23.github.i
 </a>
 
 <a href="https://github.com/saryoni23">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=saryoni23&show_icons=true&hide=stars&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=saryoni23&show_icons=true&hide=stars,issues,contribs&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
-<br>
+
 <a href="https://profile.codersrank.io/user/saryoni23/" rel="nofollow">
   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=saryoni23" data-canonical-src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=saryoni23" style="width: 50%;">
   </a>
@@ -84,18 +85,8 @@ Want to know more about me? [Check out my portfolio.](https://saryoni23.github.i
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
-<!-- ![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197) -->
-<!-- ![](https://img.shields.io/badge/Code-GreenSock-informational?style=flat&logo=GreenSock&logoColor=white&color=4AB197) -->
-<!-- ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)-->
-<!-- ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197) -->
-<!-- ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197) -->
-<!-- ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197) -->
-<!-- ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197) -->
-<!-- ![](https://img.shields.io/badge/Code-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=4AB197) -->
-
 <details>
 <summary>More Skills</summary>
-<br>
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
@@ -112,22 +103,6 @@ Want to know more about me? [Check out my portfolio.](https://saryoni23.github.i
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Clubhouse-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)
-
-<br>
-
-<!-- ![](https://img.shields.io/badge/Test-Jasmine-informational?style=flat&logo=Jasmine&logoColor=white&color=4AB197) -->
-<!-- ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197) -->
-<!-- ![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197) -->
-<!-- ![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197) -->
-<!-- ![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197) -->
-<!-- ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197) -->
-<!-- ![](https://img.shields.io/badge/Tools-Pivotal-informational?style=flat&logo=Pivotal-Tracker&logoColor=white&color=4AB197) -->
-<!-- ![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197) -->
-<!-- ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197) -->
-<!-- ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197) -->
-<!-- ![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197) -->
-
-<br>
 
 </details>
 
