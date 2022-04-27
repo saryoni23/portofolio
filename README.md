@@ -54,10 +54,11 @@ Want to know more about me? [Check out my portfolio.](https://saryoni23.github.i
 </details>
 
 <details>
-<summa ry>languages</summa>
 <br>
+<p align="center">languages</p>
 <a href="https://github.com/saryoni23"><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saryoni23&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></p></a>
 <br>
+<p align="center">chart</p>
 <a href="https://profile.codersrank.io/user/saryoni23/" rel="nofollow"><p align="center"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=saryoni23" data-canonical-src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=saryoni23" style="width: 50%;"></p>
 </a>
 </details>
