@@ -68,7 +68,7 @@ Want to know more about me? [Check out my portfolio.](https://saryoni23.github.i
 </a> -->
 <br>
 <a href="https://profile.codersrank.io/user/saryoni23/" rel="nofollow">
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=saryoni23" data-canonical-src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=saryoni23" style="max-width: 100%;">
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=saryoni23" data-canonical-src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=saryoni23" style="width: 50%;">
   </a>
 
 <br>
