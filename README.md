@@ -25,6 +25,7 @@ Want to know more about me? [Check out my portfolio.](https://saryoni23.github.i
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Panduan utama untuk shortcut keyboard di Windows 11](https://indrasaryoni.blogspot.com/2022/04/panduan-utama-untuk-shortcut-keyboard.html)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
