@@ -25,14 +25,8 @@ Want to know more about me? [Check out my portfolio.](https://saryoni23.github.i
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-<!-- - [The Powerful CSS not Selector](https://braydoncoyer.dev/blog/the-powerful-css-not-selector) -->
-<!-- - [How to Enable Preview Mode in Next.js for your CMS](https://braydoncoyer.dev/blog/how-to-enable-preview-mode-in-next.js-for-your-cms) -->
-<!-- - [Tailwind Gradients - How to Make a Glowing Gradient Background](https://braydoncoyer.dev/blog/tailwind-gradients-how-to-make-a-glowing-gradient-background) -->
-<!-- - [6 BEST Fonts for Programming in 2022](https://braydoncoyer.dev/blog/6-best-fonts-for-programming-in-2022) -->
-<!-- - [A New Opportunity at LogicGate](https://braydoncoyer.dev/blog/a-new-opportunity-at-logicgate) -->
 <!-- BLOG-POST-LIST:END -->
-
-<!-- <br> -->
+<br>
 
 ## 📌 Pinned Repositories
 
@@ -65,12 +59,13 @@ Want to know more about me? [Check out my portfolio.](https://saryoni23.github.i
 </a>
 
 <a href="https://github.com/saryoni23">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=saryoni23&show_icons=true&hide=stars,issues,contribs&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=saryoni23&show_icons=true&hide=stars,issues,contribs&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="GitHub Stats" />
 </a>
 
 <a href="https://profile.codersrank.io/user/saryoni23/" rel="nofollow">
   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=saryoni23" data-canonical-src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=saryoni23" style="width: 50%;">
-  </a>
+</a>
+
 
 <br>
 
@@ -107,19 +102,3 @@ Want to know more about me? [Check out my portfolio.](https://saryoni23.github.i
 </details>
 
 <br>
-<!-- 
-## 📣 How about an Office quote before you go? -->
-
-<!-- > It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.
-> -->
-
-<!-- > <p>- Pam Beesly</p> -->
-
-<!--
-_Quote requested from [The Office API](https://www.officeapi.dev/)_ -->
-
-<!-- Check back at the top of the hour for a new quote!
-<br>
-> ### Want to know how I made this README?
->
-> Check out my [tutorial](https://saryoni23.dev/blog/creating-a-killer-github-profile-readme-part-1/)! -->
