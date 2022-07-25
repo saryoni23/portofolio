@@ -14,4 +14,4 @@ jobs:
       - name: Pull in blogger posts
         uses: saryoni23/blog-post-workflow@master
         with:
-          feed_list: "https://indrasaryoni.blogspot.com/feeds/posts/default"
+          feed_list: "https://indrasaryoni.dev/feeds/posts/default"
